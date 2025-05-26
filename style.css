@@ -163,6 +163,45 @@ body{
     font-size: 50px;
     font-weight: 500;
 }
+.endure img{
+    height: 130px;
+}
+.foot-tame{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-top: 20px;
+}
+.foot-wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.foot-tame i{
+    color: red;
+    font-size: 25px;
+    padding-top: 20px;
+}
+.foot-taming{
+    display: flex;
+    gap: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.foot-taming li{
+    list-style-type: none;
+}
+.foot-taming li a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+}
+.clip{
+    font-size: 25px;
+}
 @media screen and (max-width: 1024px) {
     .kofi{
         display: none;
