@@ -260,12 +260,11 @@ body{
     }
     .foot-taming{
         gap: 10px;
-    }
-    .foot-taming li a{
-        font-size: 16px;
+        flex-direction: column;
+        align-items: center;
     }
     .clip{
-        font-size: 18px;
+        font-size: 23px;
     }
     .navbar-brand img{
         padding-left: 0;
@@ -275,9 +274,6 @@ body{
     .dent img {
         height: 358px;
         width: 371px;
-    }
-    .foot-taming li a{
-        font-size: 14px;
     }
     .navbar-brand img{
         padding-left: 0;
@@ -305,11 +301,8 @@ body{
     .riot-wrap-1{
         text-align: center;
     }
-    .foot-taming li a{
-        font-size: 12px;
-    }
     .clip{
-        font-size: 16px;
+        font-size: 18px;
     }
     .navbar-brand img{
         padding-left: 0;
