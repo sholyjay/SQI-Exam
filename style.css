@@ -258,11 +258,29 @@ body{
     .tint h1{
         font-size: 44px;
     }
+    .foot-taming{
+        gap: 10px;
+    }
+    .foot-taming li a{
+        font-size: 16px;
+    }
+    .clip{
+        font-size: 18px;
+    }
+    .navbar-brand img{
+        padding-left: 0;
+    }
 }
 @media screen and (max-width: 376px) {
     .dent img {
         height: 358px;
         width: 371px;
+    }
+    .foot-taming li a{
+        font-size: 14px;
+    }
+    .navbar-brand img{
+        padding-left: 0;
     }
 }
 @media screen and (max-width: 321px) {
@@ -286,6 +304,15 @@ body{
     }
     .riot-wrap-1{
         text-align: center;
+    }
+    .foot-taming li a{
+        font-size: 12px;
+    }
+    .clip{
+        font-size: 16px;
+    }
+    .navbar-brand img{
+        padding-left: 0;
     }
 }
 
